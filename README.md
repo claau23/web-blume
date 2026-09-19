@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <br>
 <p align="center">
   <img width="300" src="https://github.com/wix-incubator/wix-code-docs/assets/91874936/dfa0822f-c9cf-4523-90ca-37d1a4754975" alt="Wix IDE Logo">
@@ -293,3 +294,7 @@ Certain actions cannot be performed in the Wix IDE and must be done in Blocks:
 - Adding [widget API properties](https://dev.wix.com/docs/build-apps/develop-your-app/develop-an-app-with-blocks/widget-api/blocks-widget-properties).
 - Previewing your app and [testing it in the Editor](https://dev.wix.com/docs/build-apps/develop-your-app/develop-an-app-with-blocks/deploy-and-manage-blocks-apps/test-your-app-on-a-site).
 - [Releasing a version](https://dev.wix.com/docs/build-apps/develop-your-app/develop-an-app-with-blocks/deploy-and-manage-blocks-apps/manage-blocks-app-versions) of your app.
+=======
+# web-blume
+Pagina web importada de Wix IDE - Blume
+>>>>>>> origin/main
